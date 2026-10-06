@@ -1,0 +1,6 @@
+{
+  "name": "FUSE-X — Self-Healing Satellite Using Agentic AI",
+  "description": "Interactive 3D digital twin and mission control simulator demonstrating autonomous fault detection, isolation, constraint-based reconfiguration, and recovery verification for spacecraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
